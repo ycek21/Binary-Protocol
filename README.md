@@ -38,6 +38,7 @@ Answer codes:
 
 Initializing packet for client1. SessionId send 312(101111000). Operation field set to 0.
 
+![inivte](https://user-images.githubusercontent.com/39658861/56097234-dda1ab80-5ef1-11e9-8054-8fd01e58c52d.png)
 
 Invite send to second client. Operation field 5(0101), asnwer field 0 (000), message: !invite
 
